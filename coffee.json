@@ -1,6 +1,17 @@
 [
-  { "name": "Espresso", "price": "2.50" },
-  { "name": "Cappuccino", "price": "3.00" },
-  { "name": "Latte", "price": "3.50" },
-  { "name": "Macchiato", "price": "3.00" }
+  { "name": "Espresso", "price": "130" },
+  { "name": "Caffe Macchiato", "price": "130" },
+  { "name": "Cappuccino", "price": "140" },
+  { "name": "Lungo", "price": "130" },
+  { "name": "Americano", "price": "130" },
+  { "name": "Caffe Mocha", "price": "160" },
+  { "name": "Caffe latte", "price": "170" },
+  { "name": "Ice latte", "price": "170" },
+  { "name": "Freddo Espresso", "price": "260" },
+  { "name": "Freddo cappuccino", "price": "180" },
+  { "name": "Nes Coffee", "price": "150" },
+  { "name": "Domaca kafa", "price": "100" },
+  { "name": "Caj", "price": "100" },
+  { "name": "Topla cokolada", "price": "220" },
+  { "name": "Nesquik", "price": "150" }
 ]
