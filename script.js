@@ -21,7 +21,7 @@ document.addEventListener('DOMContentLoaded', () => {
     loadProducts('noalcohol.json', 'noalcohol-list');
 
     // Učitavanje voda
-    loadProducts('warher.json', 'warher-list');
+    loadProducts('wather.json', 'wather-list');
 
     // Učitavanje energetskih pića
     loadProducts('energy.json', 'energy-list');
