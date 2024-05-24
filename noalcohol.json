@@ -1,6 +1,9 @@
 [
-  { "name": "Espresso", "price": "2.50" },
-  { "name": "Cappuccino", "price": "3.00" },
-  { "name": "Latte", "price": "3.50" },
-  { "name": "Macchiato", "price": "3.00" }
+  { "name": "Coca cola", "price": "160" },
+  { "name": "Coca cola zero", "price": "160" },
+  { "name": "Sprite", "price": "160" },
+  { "name": "Fanta", "price": "160" },
+  { "name": "Schweppes bitter", "price": "160" },
+  { "name": "Schweppes tonic", "price": "160" },
+  { "name": "Cockta", "price": "160" }
 ]
