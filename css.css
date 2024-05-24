@@ -18,8 +18,8 @@ h2 {
 .product-list li {
     margin-bottom: 10px;
     padding: 10px;
-    background-color: #f9f9f9;
-    border: 1px solid #ddd;
+    background-color: #c9c9c9;
+    border: 1px solid #000000;
     border-radius: 5px;
 }
 
@@ -27,3 +27,21 @@ h2 {
     background-color: #f0f0f0;
 }
 
+header{
+    background-color: #6b544a;
+    margin-top: 0;
+    border-radius: 5px;
+}
+
+h1{
+    font-size: 60px;
+}
+
+.header{
+
+    margin: 10px;
+}
+
+body{
+    background-color: rgba(107, 84, 74, 0.72);
+}
