@@ -11,6 +11,7 @@
   { "name": "Freddo cappuccino", "price": "180" },
   { "name": "Nes Coffee", "price": "150" },
   { "name": "Domaca kafa", "price": "100" },
+  { "name": "--- Topli napitci", "price": "---" },
   { "name": "Caj", "price": "100" },
   { "name": "Topla cokolada", "price": "220" },
   { "name": "Nesquik", "price": "150" }
