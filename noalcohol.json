@@ -5,5 +5,14 @@
   { "name": "Fanta", "price": "160" },
   { "name": "Schweppes bitter", "price": "160" },
   { "name": "Schweppes tonic", "price": "160" },
-  { "name": "Cockta", "price": "160" }
+  { "name": "Cockta", "price": "160" },
+  { "name": "--- Negazirani sokovi", "price": "---" },
+  { "name": "Narandza", "price": "180" },
+  { "name": "Jabuka", "price": "180" },
+  { "name": "Breskva", "price": "180" },
+  { "name": "Borovnica", "price": "180" },
+  { "name": "Jagoda", "price": "180" },
+  { "name": "Cedevita", "price": "150" },
+  { "name": "Ledeni caj", "price": "180" },
+  { "name": "Cedjena limunada", "price": "140" }
 ]
