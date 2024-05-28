@@ -1,3 +1,9 @@
 [
-  { "name": "Espresso", "price": "2.50" }
+  { "name": "Djus-vodka", "price": "300" },
+  { "name": "Dzin-tonik", "price": "300" },
+  { "name": "Blue Lagoon", "price": "400" },
+  { "name": "Blue Frog", "price": "500" },
+  { "name": "Margarita", "price": "500" },
+  { "name": "Tequila Sunrise", "price": "400" },
+  { "name": "Mohito", "price": "500" }
 ]
