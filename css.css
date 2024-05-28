@@ -18,23 +18,26 @@ h2 {
 .product-list li {
     margin-bottom: 10px;
     padding: 10px;
-    background-color: #c9c9c9;
-    border: 1px solid #000000;
-    border-radius: 5px;
+    background-color: #1a1a1a;
+    border: 1px solid #484747;
+    border-radius: 2px;
+    color: #DC5F00;
 }
 
-.product-list li:hover {
-    background-color: #f0f0f0;
-}
+
 
 header{
-    background-color: #6b544a;
+    background-color: #000000;
     margin-top: 0;
     border-radius: 5px;
 }
 
 h1{
     font-size: 60px;
+    color: #DC5F00;
+}
+h2 {
+    color: #DC5F00;
 }
 
 .header{
@@ -43,5 +46,11 @@ h1{
 }
 
 body{
-    background-color: rgba(107, 84, 74, 0.72);
+    background-color: #151515;
+}
+
+footer {
+    background-color: #000000;
+    height: 100px;
+
 }
