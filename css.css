@@ -57,6 +57,7 @@ p {
 .header{
     max-width: fit-content;
     margin-left: 20px;
+    margin-right: auto;
 
 }
 
