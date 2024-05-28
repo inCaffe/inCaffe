@@ -1,6 +1,4 @@
 [
-  { "name": "Espresso", "price": "2.50" },
-  { "name": "Cappuccino", "price": "3.00" },
-  { "name": "Latte", "price": "3.50" },
-  { "name": "Macchiato", "price": "3.00" }
+  { "name": "Heinekein", "price": "250" },
+  { "name": "Nisko pivo", "price": "150" }
 ]
