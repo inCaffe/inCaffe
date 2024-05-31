@@ -2,6 +2,7 @@
   { "name": "Caj", "price": "100" },
   { "name": "Topla cokolada", "price": "220" },
   { "name": "Nesquik", "price": "150" },
+  { "name": "--- Kafe ---", "price": ""},
   { "name": "Espresso", "price": "130" },
   { "name": "Caffe Macchiato", "price": "130" },
   { "name": "Cappuccino", "price": "140" },
