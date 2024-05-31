@@ -20,9 +20,6 @@ document.addEventListener('DOMContentLoaded', () => {
     // Učitavanje bezalkoholnih pića
     loadProducts('noalcohol.json', 'noalcohol-list');
 
-    // Učitavanje voda
-    loadProducts('wather.json', 'wather-list');
-
     // Učitavanje energetskih pića
     loadProducts('energy.json', 'energy-list');
 
