@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 const productList = document.getElementById(listId);
                 products.forEach(product => {
                     const listItem = document.createElement('li');
-                    listItem.textContent = `${product.name}  ${product.price}`;
+                    listItem.innerHTML = `<span>${product.name}</span><span>${product.price}</span>`;
                     productList.appendChild(listItem);
                 });
             })
