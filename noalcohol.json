@@ -15,7 +15,7 @@
   { "name": "Cedevita", "price": "150" },
   { "name": "Ledeni caj", "price": "180" },
   { "name": "Cedjena limunada", "price": "140" },
-  { "name": "--- Vode ---", ""},
+  { "name": "--- Vode ---", "price": "" },
   { "name": "Rosa", "price": "120" },
   { "name": "Heba", "price": "120" }
 ]
