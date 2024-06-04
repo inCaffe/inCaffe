@@ -40,6 +40,7 @@ header{
     margin-top: 0;
     border-radius: 5px;
     display: flex;
+    justify-content: center;
 }
 
 h1{
@@ -58,9 +59,6 @@ p {
 }
 .header{
     max-width: fit-content;
-    margin-left: 20px;
-    margin-right: auto;
-
 }
 
 body{
@@ -70,15 +68,16 @@ body{
 footer {
     background-color: #000000;
 }
+
 img {
     height: 70px;
-    margin-top: 35px;
 }
-a {
-    margin-left: auto;
-    margin-right: 20px;
+.insta{
+    margin-top: 20px;
 }
 
 .logo {
     height: 100px;
+    margin-top: 10px;
+    justify-content: center;
 }
