@@ -1,4 +1,8 @@
 [
-  { "name": "Heinekein", "price": "250" },
-  { "name": "Nisko pivo", "price": "150" }
+  { "name": "Stella Artois 0.33l", "price": "380" },
+  { "name": "Bavarria 0.25l", "price": "280" },
+  { "name": "Staropramen 0.33l", "price": "240" },
+  { "name": "Nisko pivo", "price": "150" },
+  { "name": "Niksicko 0.33l", "price": "200" },
+  { "name": "Jelen 0.33l", "price": "180" }
 ]
